@@ -1,4 +1,4 @@
-# SmartShoppingSystem
+#SmartShoppingSystem
 
 An idea to make offline shopping simple, less time consuming and entertaining.
 
